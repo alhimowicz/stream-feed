@@ -1,9 +1,9 @@
-import { ThemeOptions } from '@mui/material';
-import { createTheme } from '@mui/system';
+// import { ThemeOptions } from '@mui/material';
+// import { createTheme } from '@mui/system';
 
-const defaultTheme: ThemeOptions = {
+// const defaultTheme: ThemeOptions = {
 
-};
+// };
 
 export {};
 // export const theme = createTheme({
